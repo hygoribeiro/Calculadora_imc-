@@ -10,6 +10,10 @@ header{
     text-align: center;
 }
 
+header p{
+    padding-top: 20px;
+}
+
 main{
     padding: 050px;
     display: flex;
