@@ -15,12 +15,16 @@ header p{
 }
 
 main{
-    padding: 050px;
+    padding: 10px;
     display: flex;
     justify-content: space-around;
 }
+#resultado{
+    color: red;
+    font-size: 2em;
+}
 
-utton{
+button{
     display:flex ;
     justify-content: center;
 }
@@ -35,7 +39,7 @@ button{
     
 }
 
-footer{
+.footer{
     text-align: center;
     padding-top: 20px;
     font-size: 20px;
